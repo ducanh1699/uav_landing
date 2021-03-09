@@ -1,0 +1,8 @@
+prefix=/home/nguyenanhquang/landing_uav/install
+
+Name: sim_uav
+Description: Description of sim_uav
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

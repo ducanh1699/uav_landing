@@ -1,0 +1,44 @@
+Symlinking /home/nguyenanhquang/landing_uav/devel/include/sim_uav/target_local_posResponse.h
+Symlinking /home/nguyenanhquang/landing_uav/devel/include/sim_uav/target_global_pos.h
+Symlinking /home/nguyenanhquang/landing_uav/devel/include/sim_uav/goto_aruco.h
+Symlinking /home/nguyenanhquang/landing_uav/devel/include/sim_uav/target_local_posRequest.h
+Symlinking /home/nguyenanhquang/landing_uav/devel/include/sim_uav/target_global_posRequest.h
+Symlinking /home/nguyenanhquang/landing_uav/devel/include/sim_uav/goto_arucoRequest.h
+Symlinking /home/nguyenanhquang/landing_uav/devel/include/sim_uav/land_arucoRequest.h
+Symlinking /home/nguyenanhquang/landing_uav/devel/include/sim_uav/goto_arucoResponse.h
+Symlinking /home/nguyenanhquang/landing_uav/devel/include/sim_uav/land_aruco.h
+Symlinking /home/nguyenanhquang/landing_uav/devel/include/sim_uav/target_local_pos.h
+Symlinking /home/nguyenanhquang/landing_uav/devel/include/sim_uav/target_global_posResponse.h
+Symlinking /home/nguyenanhquang/landing_uav/devel/include/sim_uav/land_arucoResponse.h
+Linked: (/home/nguyenanhquang/landing_uav/devel/.private/sim_uav/lib/pkgconfig/sim_uav.pc, /home/nguyenanhquang/landing_uav/devel/lib/pkgconfig/sim_uav.pc)
+Symlinking /home/nguyenanhquang/landing_uav/devel/lib/python2.7/dist-packages/sim_uav/__init__.py
+Symlinking /home/nguyenanhquang/landing_uav/devel/lib/python2.7/dist-packages/sim_uav/srv/_goto_aruco.py
+Symlinking /home/nguyenanhquang/landing_uav/devel/lib/python2.7/dist-packages/sim_uav/srv/__init__.py
+Symlinking /home/nguyenanhquang/landing_uav/devel/lib/python2.7/dist-packages/sim_uav/srv/_target_local_pos.py
+Symlinking /home/nguyenanhquang/landing_uav/devel/lib/python2.7/dist-packages/sim_uav/srv/_land_aruco.py
+Symlinking /home/nguyenanhquang/landing_uav/devel/lib/python2.7/dist-packages/sim_uav/srv/_target_global_pos.py
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/gennodejs/ros/sim_uav/_index.js
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/gennodejs/ros/sim_uav/srv/target_local_pos.js
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/gennodejs/ros/sim_uav/srv/target_global_pos.js
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/gennodejs/ros/sim_uav/srv/goto_aruco.js
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/gennodejs/ros/sim_uav/srv/land_aruco.js
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/gennodejs/ros/sim_uav/srv/_index.js
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/common-lisp/ros/sim_uav/srv/target_global_pos.lisp
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/common-lisp/ros/sim_uav/srv/land_aruco.lisp
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/common-lisp/ros/sim_uav/srv/_package_land_aruco.lisp
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/common-lisp/ros/sim_uav/srv/target_local_pos.lisp
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/common-lisp/ros/sim_uav/srv/_package_target_global_pos.lisp
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/common-lisp/ros/sim_uav/srv/_package_goto_aruco.lisp
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/common-lisp/ros/sim_uav/srv/_package.lisp
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/common-lisp/ros/sim_uav/srv/goto_aruco.lisp
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/common-lisp/ros/sim_uav/srv/sim_uav-srv.asd
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/common-lisp/ros/sim_uav/srv/_package_target_local_pos.lisp
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/sim_uav/cmake/sim_uav-msg-paths.cmake
+Linked: (/home/nguyenanhquang/landing_uav/devel/.private/sim_uav/share/sim_uav/cmake/sim_uavConfig.cmake, /home/nguyenanhquang/landing_uav/devel/share/sim_uav/cmake/sim_uavConfig.cmake)
+Linked: (/home/nguyenanhquang/landing_uav/devel/.private/sim_uav/share/sim_uav/cmake/sim_uavConfig-version.cmake, /home/nguyenanhquang/landing_uav/devel/share/sim_uav/cmake/sim_uavConfig-version.cmake)
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/sim_uav/cmake/sim_uav-msg-extras.cmake
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/roseus/ros/sim_uav/manifest.l
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/roseus/ros/sim_uav/srv/target_local_pos.l
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/roseus/ros/sim_uav/srv/goto_aruco.l
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/roseus/ros/sim_uav/srv/target_global_pos.l
+Symlinking /home/nguyenanhquang/landing_uav/devel/share/roseus/ros/sim_uav/srv/land_aruco.l

@@ -1,0 +1,9 @@
+[31m[1mCMake Error[0m at /home/nguyenanhquang/landing_uav/src/sim_uav/CMakeLists.txt:217:
+  Parse error.  Function missing ending ")".  End of file reached.
+
+
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/nguyenanhquang/landing_uav/build/sim_uav/CMakeFiles/CMakeOutput.log".
+See also "/home/nguyenanhquang/landing_uav/build/sim_uav/CMakeFiles/CMakeError.log".
+Makefile:1272: recipe for target 'cmake_check_build_system' failed
+make: *** [cmake_check_build_system] Error 1

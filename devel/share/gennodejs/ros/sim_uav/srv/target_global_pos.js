@@ -1,0 +1,1 @@
+/home/nguyenanhquang/landing_uav/devel/.private/sim_uav/share/gennodejs/ros/sim_uav/srv/target_global_pos.js

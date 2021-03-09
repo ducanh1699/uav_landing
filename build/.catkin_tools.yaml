@@ -1,0 +1,6 @@
+devel_space: /home/nguyenanhquang/landing_uav/devel
+install: false
+install_space: /home/nguyenanhquang/landing_uav/install
+profile: default
+source_space: /home/nguyenanhquang/landing_uav/src
+workspace: /home/nguyenanhquang/landing_uav

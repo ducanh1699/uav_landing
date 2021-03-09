@@ -1,0 +1,25 @@
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target mavros_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target mavros_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target mavros_msgs_generate_messages_nodejs
+[  0%] Built target _sim_uav_generate_messages_check_deps_goto_aruco
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target mavros_msgs_generate_messages_eus
+[  0%] Built target _sim_uav_generate_messages_check_deps_target_local_pos
+[  0%] Built target _sim_uav_generate_messages_check_deps_land_aruco
+[  0%] Built target _sim_uav_generate_messages_check_deps_target_global_pos
+[  0%] Built target mavros_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[ 40%] Built target sim_uav_generate_messages_cpp
+[ 40%] Built target sim_uav_generate_messages_eus
+[ 81%] Built target sim_uav_generate_messages_nodejs
+[ 81%] Built target sim_uav_generate_messages_py
+[100%] Built target sim_uav_generate_messages_lisp
+[100%] Built target sim_uav_generate_messages
